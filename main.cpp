@@ -43,6 +43,6 @@ int main() {
   }
 
   if (solved == true) {
-    cout << "Congratulations! You successfully completed CPP_task_" << tNum;
+    cout << "Congratulations! You successfully completed CPP_task_" << tNum << "\n";
   }
 }
