@@ -35,7 +35,7 @@ int main() {
       cout << "              ##< TESTCASE SOLVED >##" << endl << endl << endl;
     } else {
       solved = false;
-      cout << "                   you failed" << endl << endl << endl;
+      cout << "                    you failed" << endl << endl << endl;
     }
 
     ipt.close();
