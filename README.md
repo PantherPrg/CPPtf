@@ -1,15 +1,18 @@
 # CPP_task_0: Title
-**| difficulty: 0/10 |**
+** difficulty: 0/10 **|
+----------------------|
 
 Background, instructions
-__________________________________________________________________________________
+
+- - - -
 **Input**:
 
-__________________________________________________________________________________
+- - - -
 **Output**:
 
 Make sure to add a newline at the end of your answer for it to match the answer format.
-__________________________________________________________________________________
+- - - -
+
 **optional challenge: write your code in under 0 lines**
 
 This problem deals with Pretty cool. **Do your research, google is your friend.**
